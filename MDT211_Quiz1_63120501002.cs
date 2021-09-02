@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MDT112_Quiz1_63120501002
+namespace MDT211_Quiz1_63120501002
 {
     class Program
     {
